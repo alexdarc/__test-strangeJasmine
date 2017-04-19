@@ -1,0 +1,1 @@
+node "%~dp0buildtool.js" --current-dir %cd% %*
